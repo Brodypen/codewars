@@ -7,11 +7,11 @@ Codewars became the place for me to consistently practice my coding. This is a r
 
 Tech used: JS, TS.
 
-Certain katas don't have TS answers so it defaults to JS. However, I perfer Typescript so I'll try to do TS when I can.
+Certain katas don't have TS answers so it defaults to JS. However, I prefer Typescript so I'll try to do TS when I can.
 
 ## Optimizations
 
-Before submitting, I take time to optimize and take notes for different ways to optimize in terms of efficiency and readability.
+Before submitting, I take time to optimize and take notes on different ways to optimize in terms of efficiency and readability.
 
 ## Lessons Learned:
 
