@@ -1,6 +1,4 @@
 /*
-https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
-
 given a integer return string "Even" or "Odd" depending on the number oddity.
 Refactor to arrow function
 */
