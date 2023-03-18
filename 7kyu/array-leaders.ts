@@ -14,6 +14,7 @@ export function arrayLeaders(numbers: number[]): number[] {
   }
   return newNumbers;
 }
+// Another way to optimize the first is by pushing instead of using unshift, as unshift is o(n) operation. Then you will have to reverse at the end.
 
 // Second solution, less effective as no memory storage of sum. However, it is more readable.
 
