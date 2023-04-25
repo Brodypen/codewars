@@ -3,6 +3,7 @@ function sumTwoSmallestNumbers(numbers) {
   let [a, b] = numbers.sort((a, b) => a - b);
   return a + b;
 }
+// Testing
 // This is the best performace solution, since it is O(n).
 // function sumTwoSmallestNumbers(numbers) {
 //   var min = Number.MAX_SAFE_INTEGER;
